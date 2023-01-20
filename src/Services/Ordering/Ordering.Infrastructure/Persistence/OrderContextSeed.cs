@@ -18,7 +18,7 @@ public class OrderContextSeed
     {
         return new List<Order>()
         {
-            new Order() {UserName = "Erick", FirstName = "Erick", LastName = "Carvalho", EmailAddress = "erick.iasp@gmail.com", AddressLine = "São Paulo", Country = "Brazil", TotalPrice = 350 }
+            new Order() {UserName = "Erick", FirstName = "Erick", LastName = "Carvalho", EmailAddress = "asd@asd.com", AddressLine = "São Paulo", Country = "Brazil", TotalPrice = 350 }
         };
     }
 }
